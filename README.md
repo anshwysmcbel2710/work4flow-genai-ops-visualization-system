@@ -1,6 +1,6 @@
 # 🏷️ Project Title
 
-Work4Flow – GenAI Ops Visualization System (High-Fidelity HTML/CSS Presentation Interface)
+BITS & BRAINS AI – GenAI Ops Visualization System (High-Fidelity HTML/CSS Presentation Interface)
 
 ---
 
